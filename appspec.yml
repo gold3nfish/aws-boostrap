@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  # unzip the build artifacet in ~/app
+  # unzip the build artifact in ~/app
   - source: /
     destination: /home/ec2-user/app/release
 permissions:
